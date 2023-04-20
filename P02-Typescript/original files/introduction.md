@@ -1,6 +1,4 @@
-# Title
-
-Build JavaScript applications using TypeScript
+# Build JavaScript applications using TypeScript
 
 ## Role(s)
 
