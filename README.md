@@ -1,4 +1,4 @@
-# SNVA Exercises for ES6 Workshop
+# SNVA Exercises
 
 Repositories and exercises assigned by SNVA via [GitHub](https://github.com/dheeraj-thedev). 
 
