@@ -1,4 +1,6 @@
-# SNVA Exercises
+# SNVA ES6 and TypeScript Tools
+
+## Resources: 
 
 Repositories and exercises assigned by SNVA via [GitHub](https://github.com/dheeraj-thedev). 
 
